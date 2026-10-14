@@ -1,2 +1,35 @@
 /* styles.css */
 
+body{
+    background-color:#FBF2ED; 
+}
+
+.header-text{
+    font-family: 'Advent Pro', sans-serif;
+    font-weight: 700;
+    font-optical-sizing: auto;
+    opacity: 0.8;
+    border: 5px solid #CDD5C6;
+    color: #644936;
+    border-radius: 15px;
+}
+
+ul.bulleted-list{
+    font-family: 'Lexend', sans-serif;
+    list-style-type: disc;
+    padding-left: 10px;
+    margin: 20px 0;
+}
+
+.footer{
+    font-size: 15px;
+    margin-top: 100px;
+}
+
+p{
+    font-family: 'Lexend', sans-serif;
+}
+
+.Journal{
+    width:100%; 
+}
